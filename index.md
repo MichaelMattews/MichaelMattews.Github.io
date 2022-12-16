@@ -9,7 +9,7 @@
 For this project, I used SQL to explore loans and credits provided by the International Development Association.
 
 ---
-#### [External Link Project](https://www.linkedin.com/pulse/what-i-learned-21-days-data-avery-smith)
+#### [External Link Project](https://www.kaggle.com/code/mokiemattew/capstone-cyclistic)
 [<img src="images/21 Days To Data Challenge What I've Learned Cover.png?raw=true"/>](https://www.linkedin.com/pulse/what-i-learned-21-days-data-avery-smith)
 
 ---
