@@ -4,7 +4,7 @@
 
 ###  My Projects
 
-#### [SQL Banking Project](https://medium.com/@mmokie09/sql-banking-project-1dd9291aa2e3/bank)
+#### [SQL Banking Project](https://medium.com/@mmokie09/sql-banking-project-1dd9291aa2e3)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 For this project, I used SQL to explore loans and credits provided by the International Development Association.
 
