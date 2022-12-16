@@ -24,11 +24,9 @@ What are the top math schools in the state?
 
 ### Category Name 2
 
-- [Project 1 Title](http://example.com/)
-- [Project 2 Title](http://example.com/)
-- [Project 3 Title](http://example.com/)
-- [Project 4 Title](http://example.com/)
-- [Project 5 Title](http://example.com/)
+- [SQL Banking Project]([http://example.com/](https://medium.com/@mmokie09/sql-banking-project-1dd9291aa2e3))
+- [Cyclistic Capstone]([http://example.com/](https://www.kaggle.com/code/mokiemattew/capstone-cyclistic))
+
 
 ---
 
