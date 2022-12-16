@@ -10,7 +10,7 @@ For this project, I used SQL to explore loans and credits provided by the Intern
 
 ---
 #### [External Link Project](https://www.kaggle.com/code/mokiemattew/capstone-cyclistic)
-[<img src="/images/dataset-cover.jpg?raw=true"/>](https://www.kaggle.com/code/mokiemattew/capstone-cyclisti)
+[<img src="/images/dataset-cover.jpg?raw=true"/>]
 
 ---
 #### [Education Project](https://www.linkedin.com/pulse/massachusetts-education-analysis-samantha-paul/)
