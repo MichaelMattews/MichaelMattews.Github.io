@@ -14,7 +14,7 @@ For this project, I used SQL to explore loans and credits provided by the Intern
 
 
 #### [SQL Healthcare Managment Project](https://medium.com/@MokonenMichael/healthcare-project-with-sql-b27f1442e339)
-[<images/Hospital.jpg?raw=true"/>] 
+[<img src="/images/Hospital.jpg?raw=true"/>] 
 
 
 ---
