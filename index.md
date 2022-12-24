@@ -10,11 +10,11 @@ For this project, I used SQL to explore loans and credits provided by the Intern
 
 ---
 #### [Capstone](https://www.kaggle.com/code/mokiemattew/capstone-cyclistic)
-[<img src="/images/dataset-cover.jpg?raw=true"/>]
+[<img src="/images/dataset-cover.jpg?raw=true"/>] 
 
 
 #### [SQL Healthcare Managment Project](https://medium.com/@MokonenMichael/healthcare-project-with-sql-b27f1442e339)
-[<images/SQL%20Healthcare%20Project.jpg?raw=true"/>] 
+[<images/Hospital.jpg?raw=true"/>] 
 
 
 ---
